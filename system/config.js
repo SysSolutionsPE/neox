@@ -26,7 +26,7 @@ global.timezone = 'America/Lima'
 // Bot version
 global.version = '2.2.2',
 // Bot name
-global.botname = `© SysSolutions-Bot v${global.version} (Public Bot)`
+global.botname = `© SysSolutions-Bot v${global.version} (Self Bot)`
 // Footer text
 global.footer = 'SysSolutions Peru'
 // Scraper
